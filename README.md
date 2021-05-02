@@ -1,4 +1,4 @@
-# Face Recognition Software from your webcam
+# Face Recognizer using OpenCv
 
 
 This repository contains the source code for recognizing faces based on taken images from the webcam. It was created using OpenCv and tkinter libraires. 
